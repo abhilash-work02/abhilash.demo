@@ -1,4 +1,4 @@
 # abhilash.demo
 
-Authore - Abhilash Thakre
+Authore - Abhilash Thakre <br>
 This is my first git repository
